@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="amor"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Amusing Misuse Of Resources"
+DESCRIPTION="Part of the KDE desktop amusements suite"
